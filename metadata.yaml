@@ -33,6 +33,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Remy_de_Gourmont
     - http://en.wikipedia.org/wiki/R%C3%A9my_de_Gourmont
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44384#A-Virgin-Heart--13-A-Novel
 gutenberg_issued: '2013-12-07'
 gutenberg_type: Text
 identifiers:
