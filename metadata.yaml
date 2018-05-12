@@ -1,0 +1,48 @@
+_repo: A-Virgin-Heart--13-A-Novel_44384
+_version: 0.1.0
+alternative_title: Un coeur virginal. English
+contributor:
+  translator:
+    agent_name: Huxley, Aldous
+    alias: Huxley, Aldous Leonard
+    birthdate: 1894
+    deathdate: 1963
+    gutenberg_agent_id: '780'
+    url: http://www.gutenberg.org/2009/agents/780
+    wikipedia: http://en.wikipedia.org/wiki/Aldous_Huxley
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gourmont, Remy de
+    aliases:
+    - Coffe, M.
+    - Drexelius, J.
+    - L'Ymagier
+    - Gourmont, Remye
+    - De Gourmont, Remy
+    - Gourmont, Remi de
+    - Gourmont, Rémy de
+    - Le Danois, N.
+    birthdate: 1858
+    deathdate: 1915
+    gutenberg_agent_id: '6996'
+    url: http://www.gutenberg.org/2009/agents/6996
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Remy_de_Gourmont
+    - http://en.wikipedia.org/wiki/R%C3%A9my_de_Gourmont
+description: ''
+gutenberg_issued: '2013-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44384'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- Translations into English'
+title: 'A Virgin Heart: A Novel'
+url: http://www.gutenberg.org/ebooks/44384
